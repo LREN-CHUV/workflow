@@ -28,7 +28,7 @@ addSbtPlugin("com.lucidchart"    % "sbt-scalafmt"    % "1.15")
 addSbtPlugin("de.heikoseeberger" % "sbt-header"      % "5.2.0")
 
 // Versioning
-addSbtPlugin("com.typesafe.sbt"  % "sbt-git"         % "1.0.0")
+addSbtPlugin("com.typesafe.sbt"  % "sbt-git"         % "1.0.1")
 
 // Monitoring
 addSbtPlugin("io.kamon" % "sbt-aspectj-runner"       % "1.1.2")
