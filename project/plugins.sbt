@@ -33,4 +33,4 @@ addSbtPlugin("com.typesafe.sbt"  % "sbt-git"         % "1.0.0")
 // Monitoring
 addSbtPlugin("io.kamon" % "sbt-aspectj-runner"       % "1.1.2")
 
-addSbtPlugin("org.scoverage" % "sbt-scoverage" % "1.5.1")
+addSbtPlugin("org.scoverage" % "sbt-scoverage" % "1.8.2")
