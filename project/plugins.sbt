@@ -19,7 +19,7 @@ addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.0.0")
 // Code Quality
 addSbtPlugin("org.scalastyle" %% "scalastyle-sbt-plugin" % "1.0.0") // scalastyle
 
-addSbtPlugin("org.wartremover"   % "sbt-wartremover" % "2.4.1") // Wartremover
+addSbtPlugin("org.wartremover"   % "sbt-wartremover" % "2.4.16") // Wartremover
 
 // Code formatter
 addSbtPlugin("com.lucidchart"    % "sbt-scalafmt"    % "1.15")
